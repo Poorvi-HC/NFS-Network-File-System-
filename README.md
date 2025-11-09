@@ -1,4 +1,4 @@
-# OSN Course Project - Building a netork File System from scratch
+# Building a netork File System from scratch
 
 ![alt text](images/distributed-client-server-min-1200x675.webp)
 
